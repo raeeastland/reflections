@@ -1,0 +1,10 @@
+Reflect: Initializing a Repository
+What happens when you initialize a repository?  Why do you need to do it?
+
+When you init a repository Git creates metadata in a .git directory.  This is used to track subsequent changes in the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area holds files from the working dir that may later be saved (commited) to the repository.  A staging area allows groups of files to be committed together and allows for the possibility to undo before a commit.
+
+

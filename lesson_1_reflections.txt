@@ -1,0 +1,4 @@
+How did viewing a diff between two verions of a file help you see the bug that was introduced?
+  - I learned about the FC DOS command
+  - I learned about ATOM, GIT windows etc
+  
